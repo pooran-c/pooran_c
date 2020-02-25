@@ -84,6 +84,15 @@ detecting the sentiment of the human migration tweets my model achieved an accur
 1. Supervised classifier model to classify Tweets as Migration and Non-migration Tweets.
 1. Model to detect the sentiment of the Tweets and Evaluation of these models.
 
+## Natural Language programming lab (Course work)
+
+**Identifying Argumentative Discourse Structures in Persuasive Essay.**
+
+Classifications of Claims, Premises and major claims from written essays using the NLP
+models in python. Steps carried out in this project were: Data Preprocessing, Application of
+machine learning algorithm for classifying arguments and finding the relation between
+them, and finding the metrics of the algorithm.
+
 ---
 ### Education
 ## Master of Science in Computer Science.
