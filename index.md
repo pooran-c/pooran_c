@@ -62,6 +62,24 @@ I learned to use Eclipse IDE, Java/J2EE (struts/springs framework) for construct
 DB for the database. As a junior developer, I learned how to work in a team and share code
 with senior members quickly.
 
+---
+
+### Academic projects
+## Master Thesis
+
+**Analyzing and Mining geo-locational data from tweets for understanding people
+opinion on migration.**
+
+The objective of this thesis was to classify the tweets as human migration tweet or not. And
+then detect the sentiment of the classified migration tweet. The binary classifier is built
+using a supervised machine learning algorithm. The important task involved was gathering
+relevant data for building machine learning model and feature extraction. Overall,
+detecting the sentiment of the human migration tweets my model achieved an accuracy of
+55%.
+
+## Data Science project (Course work)
+
+**Sentiment Analysis on Twitter Migration Data.**
 
 ---
 ### Education
