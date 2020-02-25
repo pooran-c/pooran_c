@@ -2,6 +2,17 @@
 
 ---
 ### Education
+## Master of Science in Computer Science.
+University of Passau, Passau, Germany.
+Focus: Information and Communication Systems, Intelligent Technical Systems.
+
+## Bachelor of Engineering in Computer Science.
+Visveswaraya Technological University, Bangalore, India.
+Focus: Algorithm and design, Operating system, Object-oriented programming.
+
+## Pre-University College.
+SDM College , Honnavar, India.
+Focus: Physics, Chemistry, Mathematics, Biology.
 
 
 ### Work history 
