@@ -2,20 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Work history 
 
 [OpenEMS](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+###<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Role : Application developer
 OpenEms is a modular energy management system based on the OSGi framework to contr
 ol, monitor and integrate renewable energy storage systems. I developed several controller
 APIs as an application developer. One such controller was used to control the CHP
 (combined heat and power) device. I was involved in creating online monitoring of these
 devices, JUnit test cases, and documentation.
+
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
 
 ---
 [Project 3 Title](http://example.com/)
