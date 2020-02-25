@@ -2,7 +2,7 @@
 
 ### Work history 
 
-[OpenEMS](/sample_page)
+####[OpenEMS](/sample_page)
 <!---  <img src="images/dummy_thumbnail.jpg?raw=true"/> --->
 Role : Application developer
 
@@ -13,7 +13,7 @@ APIs as an application developer. One such controller was used to control the CH
 devices, JUnit test cases, and documentation.
 
 ---
-[Work Flow Management](/pdf/sample_presentation.pdf)
+####[Work Flow Management](/pdf/sample_presentation.pdf)
 <!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
 Role : Software developer
 
@@ -26,7 +26,7 @@ the same library was re-used by other teams in HP.
 
 ---
 
-[E2E Tracking](/pdf/sample_presentation.pdf)
+####[E2E Tracking](/pdf/sample_presentation.pdf)
 <!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
 Role : Software developer
 
@@ -49,7 +49,7 @@ maintenance.
 
 ---
 
-[Smart Quote](/pdf/sample_presentation.pdf)
+####[Smart Quote](/pdf/sample_presentation.pdf)
 <!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
 Role : Software developer
 
