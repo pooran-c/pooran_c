@@ -80,6 +80,9 @@ detecting the sentiment of the human migration tweets my model achieved an accur
 ## Data Science project (Course work)
 
 **Sentiment Analysis on Twitter Migration Data.**
+1. Data Collection and Preprocessing.
+1. Supervised classifier model to classify Tweets as Migration and Non-migration Tweets.
+1. Model to detect the sentiment of the Tweets and Evaluation of these models.
 
 ---
 ### Education
