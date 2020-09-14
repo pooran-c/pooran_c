@@ -2,9 +2,9 @@
 
 ### Work history 
 
-### [OpenEMS](/sample_page)
+### [OpenEMS](https://github.com/OpenEMS/openems)
 <!---  <img src="images/dummy_thumbnail.jpg?raw=true"/> --->
-Role : Application developer
+**Role** : **Software developer**
 
 OpenEms is a modular energy management system based on the OSGi framework to contr
 ol, monitor and integrate renewable energy storage systems. I developed several controller
@@ -15,7 +15,7 @@ devices, JUnit test cases, and documentation.
 ---
 ### [Work Flow Management](/pdf/sample_presentation.pdf)
 <!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
-Role : Software developer
+**Role** : **Software developer**
 
 This was Proof of concept, Plan was to create an in-house project in HP to manage the
 workflow from different customers(different regions of the worlds) and their order.
@@ -28,7 +28,7 @@ the same library was re-used by other teams in HP.
 
 ### [E2E Tracking](/pdf/sample_presentation.pdf)
 <!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
-Role : Software developer
+**Role** : **Software developer**
 
 This project started as a small plan for tracking end to end events of orders from three
 customers for HP. I worked in Back-end, Where I had to build logic to convert data from
@@ -38,9 +38,9 @@ customers. This project was presented to many other customers.
 
 ---
 
-[Order integration suite](/pdf/sample_presentation.pdf)
+### [Order integration suite](/pdf/sample_presentation.pdf)
 <!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
-Role : Software developer
+**Role** : **Software developer**
 
 This project is the layer between HP’s order capture from the customer and the order
 fulfillment from the SAP systems. My role was deploying code into Production and
@@ -51,7 +51,7 @@ maintenance.
 
 ### [Smart Quote](/pdf/sample_presentation.pdf)
 <!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
-Role : Software developer
+**Role** : **Software developer**
 
 Smart Quote is a front end, special price request communication e-service system from IT,
 to allow re-seller to requests a Special price from HP. My role as a junior developer was to
@@ -97,15 +97,15 @@ them, and finding the metrics of the algorithm.
 ## Education
 ### Master of Science in Computer Science.
 University of Passau, Passau, Germany.
+
 Focus: Information and Communication Systems, Intelligent Technical Systems.
 
 ### Bachelor of Engineering in Computer Science.
 Visveswaraya Technological University, Bangalore, India.
+
 Focus: Algorithm and design, Operating system, Object-oriented programming.
 
-### Pre-University College.
-SDM College , Honnavar, India.
-Focus: Physics, Chemistry, Mathematics, Biology.
+
 
 ---
 
