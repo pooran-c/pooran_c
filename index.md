@@ -13,7 +13,7 @@ APIs as an application developer. One such controller was used to control the CH
 devices, JUnit test cases, and documentation.
 
 ---
-### [Work Flow Management]
+### Work Flow Management
 
 **Role** : **Software developer**
 
@@ -26,7 +26,7 @@ the same library was re-used by other teams in HP.
 
 ---
 
-### [E2E Tracking]
+### E2E Tracking
 
 **Role** : **Software developer**
 
@@ -38,7 +38,7 @@ customers. This project was presented to many other customers.
 
 ---
 
-### [Order integration suite]
+### Order integration suite
 
 **Role** : **Software developer**
 
@@ -49,7 +49,7 @@ maintenance.
 
 ---
 
-### [Smart Quote]
+### Smart Quote
 
 **Role** : **Software developer**
 
@@ -95,15 +95,14 @@ them, and finding the metrics of the algorithm.
 
 ---
 ## Education
-### [Master of Science in Computer Science.]
-
-
+### Master of Science in Computer Science.
 
 University of Passau, Passau, Germany.
 
 Focus: Information and Communication Systems, Intelligent Technical Systems.
 
 ### Bachelor of Engineering in Computer Science.
+
 Visveswaraya Technological University, Bangalore, India.
 
 Focus: Algorithm and design, Operating system, Object-oriented programming.
