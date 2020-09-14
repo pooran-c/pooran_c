@@ -2,7 +2,7 @@
 
 ### Work history 
 
-####[OpenEMS](/sample_page)
+### [OpenEMS](/sample_page)
 <!---  <img src="images/dummy_thumbnail.jpg?raw=true"/> --->
 Role : Application developer
 
@@ -13,7 +13,7 @@ APIs as an application developer. One such controller was used to control the CH
 devices, JUnit test cases, and documentation.
 
 ---
-####[Work Flow Management](/pdf/sample_presentation.pdf)
+### [Work Flow Management](/pdf/sample_presentation.pdf)
 <!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
 Role : Software developer
 
@@ -26,7 +26,7 @@ the same library was re-used by other teams in HP.
 
 ---
 
-####[E2E Tracking](/pdf/sample_presentation.pdf)
+### [E2E Tracking](/pdf/sample_presentation.pdf)
 <!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
 Role : Software developer
 
@@ -49,7 +49,7 @@ maintenance.
 
 ---
 
-####[Smart Quote](/pdf/sample_presentation.pdf)
+### [Smart Quote](/pdf/sample_presentation.pdf)
 <!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
 Role : Software developer
 
@@ -64,8 +64,8 @@ with senior members quickly.
 
 ---
 
-### Academic projects
-## Master Thesis
+## Academic projects
+### Master Thesis
 
 **Analyzing and Mining geo-locational data from tweets for understanding people
 opinion on migration.**
@@ -77,14 +77,14 @@ relevant data for building machine learning model and feature extraction. Overal
 detecting the sentiment of the human migration tweets my model achieved an accuracy of
 55%.
 
-## Data Science project (Course work)
+### Data Science project (Course work)
 
 **Sentiment Analysis on Twitter Migration Data.**
 1. Data Collection and Preprocessing.
 1. Supervised classifier model to classify Tweets as Migration and Non-migration Tweets.
 1. Model to detect the sentiment of the Tweets and Evaluation of these models.
 
-## Natural Language programming lab (Course work)
+### Natural Language programming lab (Course work)
 
 **Identifying Argumentative Discourse Structures in Persuasive Essay.**
 
@@ -94,34 +94,24 @@ machine learning algorithm for classifying arguments and finding the relation be
 them, and finding the metrics of the algorithm.
 
 ---
-### Education
-## Master of Science in Computer Science.
+## Education
+### Master of Science in Computer Science.
 University of Passau, Passau, Germany.
 Focus: Information and Communication Systems, Intelligent Technical Systems.
 
-## Bachelor of Engineering in Computer Science.
+### Bachelor of Engineering in Computer Science.
 Visveswaraya Technological University, Bangalore, India.
 Focus: Algorithm and design, Operating system, Object-oriented programming.
 
-## Pre-University College.
+### Pre-University College.
 SDM College , Honnavar, India.
 Focus: Physics, Chemistry, Mathematics, Biology.
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+
