@@ -39,7 +39,7 @@ customers. This project was presented to many other customers.
 ---
 
 ### [Order integration suite]
-<img src="images/5rd-LGsX.png?raw=true"/>
+
 **Role** : **Software developer**
 
 This project is the layer between HP’s order capture from the customer and the order
@@ -107,7 +107,6 @@ Focus: Information and Communication Systems, Intelligent Technical Systems.
 Visveswaraya Technological University, Bangalore, India.
 
 Focus: Algorithm and design, Operating system, Object-oriented programming.
-
 
 
 ---
