@@ -3,7 +3,7 @@
 ### Work history 
 
 ### [OpenEMS](https://github.com/OpenEMS/openems)
-<!---  <img src="images/dummy_thumbnail.jpg?raw=true"/> --->
+  <img src="images/OpenEMS-Logo.png?raw=true"/>
 **Role** : **Software developer**
 
 OpenEms is a modular energy management system based on the OSGi framework to contr
@@ -13,8 +13,8 @@ APIs as an application developer. One such controller was used to control the CH
 devices, JUnit test cases, and documentation.
 
 ---
-### [Work Flow Management](/pdf/sample_presentation.pdf)
-<!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
+### [Work Flow Management]
+<img src="images/5rd-LGsX.png?raw=true"/>
 **Role** : **Software developer**
 
 This was Proof of concept, Plan was to create an in-house project in HP to manage the
@@ -26,8 +26,8 @@ the same library was re-used by other teams in HP.
 
 ---
 
-### [E2E Tracking](/pdf/sample_presentation.pdf)
-<!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
+### [E2E Tracking]
+<img src="images/5rd-LGsX.png?raw=true"/>
 **Role** : **Software developer**
 
 This project started as a small plan for tracking end to end events of orders from three
@@ -38,8 +38,8 @@ customers. This project was presented to many other customers.
 
 ---
 
-### [Order integration suite](/pdf/sample_presentation.pdf)
-<!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
+### [Order integration suite]
+<img src="images/5rd-LGsX.png?raw=true"/>
 **Role** : **Software developer**
 
 This project is the layer between HP’s order capture from the customer and the order
@@ -49,8 +49,8 @@ maintenance.
 
 ---
 
-### [Smart Quote](/pdf/sample_presentation.pdf)
-<!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
+### [Smart Quote]
+<img src="images/5rd-LGsX.png?raw=true"/>
 **Role** : **Software developer**
 
 Smart Quote is a front end, special price request communication e-service system from IT,
@@ -95,7 +95,10 @@ them, and finding the metrics of the algorithm.
 
 ---
 ## Education
-### Master of Science in Computer Science.
+### [Master of Science in Computer Science.]
+<img src="universitaet-passau-vector-logo.png?raw=true"/>
+
+
 University of Passau, Passau, Germany.
 
 Focus: Information and Communication Systems, Intelligent Technical Systems.
