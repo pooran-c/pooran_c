@@ -4,13 +4,23 @@
 
 ### [OpenEMS](https://github.com/OpenEMS/openems)
 
-**Role** : **Software developer**
+**Role** : **Senior Software Engineer**
 
-OpenEms is a modular energy management system based on the OSGi framework to contr
-ol, monitor and integrate renewable energy storage systems. I developed several controller
-APIs as an application developer. One such controller was used to control the CHP
-(combined heat and power) device. I was involved in creating online monitoring of these
-devices, JUnit test cases, and documentation.
+- Developed several controllers and managed energy devices using OpenEMS, an open-source energy management system (EMS) based on the OSGi framework for controlling, monitoring, and integrating renewable energy storage systems.
+- Frequently participated in OpenEMS hackathons.
+- Controller and Application Development: Utilized Java, InfluxDB, and TypeScript within the OpenEMS project to create controllers and applications.
+- Energy Device Management: Managed energy devices using Java, JSON-RPC, and the Modbus protocol.
+- Open Source Contributions: Actively contributed to OpenEMS, adding new features and improving existing functionalities, enhancing the overall performance and reliability of the system.
+- Research Project Contributions: Conducted research on energy forecasting applications using Java and Python.
+- Project: Fast Frequency Controller/Application
+- Objective: Developed a system to detect dips in grid frequency and issue commands to a battery inverter within 200 milliseconds.
+- Key Responsibilities: Frequency Monitoring: Implemented real-time monitoring of grid frequency using advanced signal processing techniques to ensure accurate and prompt detection of frequency dips.
+- Command Execution: Designed a responsive control mechanism to send immediate commands to the battery inverter, ensuring corrective actions are initiated within the 200 ms timeframe.
+- Technology Stack: Utilized Java for the core application logic, integrated with real-time data processing tools and communication protocols to achieve high-speed performance.
+- System Integration: Ensured seamless integration with existing energy management systems and battery inverters, optimizing interoperability and system reliability.
+- Testing and Validation: Conducted extensive testing under various scenarios to validate the system's responsiveness and reliability, ensuring compliance with grid stability requirements.
+- Performance Optimization: Implemented performance tuning and optimization techniques to minimize latency and enhance system efficiency.
+- Collaboration: Worked closely with cross-functional teams, including hardware engineers and system integrators, to align the project with overall system goals and operational requirements.
 
 ---
 ### Work Flow Management
