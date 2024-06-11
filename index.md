@@ -8,11 +8,11 @@
 
 - Developed several controllers and managed energy devices using OpenEMS, an open-source energy management system (EMS) based on the OSGi framework for controlling, monitoring, and integrating renewable energy storage systems.
 - Frequently participated in OpenEMS hackathons.
-- Controller and Application Development: Utilized Java, InfluxDB, and TypeScript within the OpenEMS project to create controllers and applications.
-- Energy Device Management: Managed energy devices using Java, JSON-RPC, and the Modbus protocol.
-- Open Source Contributions: Actively contributed to OpenEMS, adding new features and improving existing functionalities, enhancing the overall performance and reliability of the system.
-- Research Project Contributions: Conducted research on energy forecasting applications using Java and Python.
-- Project: Fast Frequency Controller/Application
+- **Controller and Application Development**: Utilized Java, InfluxDB, and TypeScript within the OpenEMS project to create controllers and applications.
+- **Energy Device Management**: Managed energy devices using Java, JSON-RPC, and the Modbus protocol.
+- **Open Source Contributions**: Actively contributed to OpenEMS, adding new features and improving existing functionalities, enhancing the overall performance and reliability of the system.
+- **Research Project Contributions**: Conducted research on energy forecasting applications using Java and Python.
+- **Project**: Fast Frequency Controller/Application
 - Objective: Developed a system to detect dips in grid frequency and issue commands to a battery inverter within 200 milliseconds.
 - Key Responsibilities: Frequency Monitoring: Implemented real-time monitoring of grid frequency using advanced signal processing techniques to ensure accurate and prompt detection of frequency dips.
 - Command Execution: Designed a responsive control mechanism to send immediate commands to the battery inverter, ensuring corrective actions are initiated within the 200 ms timeframe.
